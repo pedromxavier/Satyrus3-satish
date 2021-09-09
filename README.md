@@ -1,2 +1,3 @@
-# Satyrus3-satish
-SATish Language Support for VSCode
+# SATish Language Support
+
+This Visual Studio Extension provides Syntax Highlighting for the SATish language.
